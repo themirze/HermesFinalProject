@@ -1,0 +1,6 @@
+{
+    "prettier.trailingComma": "all",
+    "prettier.enableDebugLogs": true,
+    "prettier.endOfLine": "auto",
+    "prettier.requireConfig": true
+}
